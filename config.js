@@ -151,8 +151,8 @@ const CONFIG = {
 					link: 'https://soundcloud.com/',
 				},
 				{
-					name: 'VKMusic',
-					link: 'https://vk.com/audio',
+					name: 'Copilot',
+					link: 'https://www.bing.com/chat?q=Bing+AI',
 				},
 			],
 		},
@@ -165,8 +165,8 @@ const CONFIG = {
 					link: 'https://www.instagram.com/',
 				},
 				{
-					name: 'VK',
-					link: 'https://vk.com/feed',
+					name: 'Pinterest',
+					link: 'https://www.pinterest.com/',
 				},
 				{
 					name: 'AnimeLib',
