@@ -139,20 +139,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Spotify',
+					link: 'https://open.spotify.com/',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'YandexMusic',
+					link: 'https://music.yandex.by/home',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'SoundCloud',
+					link: 'https://soundcloud.com/',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'VKMusic',
+					link: 'https://vk.com/audio',
 				},
 			],
 		},
@@ -161,20 +161,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Instagram',
+					link: 'https://www.instagram.com/',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'VK',
+					link: 'https://vk.com/feed',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'AnimeLib',
+					link: 'https://test-front.anilib.me',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'MangaLib',
+					link: 'test-front.mangalib.me',
 				},
 			],
 		},
