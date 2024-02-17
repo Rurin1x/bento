@@ -14,7 +14,7 @@ const CONFIG = {
 	name: 'Rui',
 	imageBackground: false,
 	openInNewTab: false,
-	twelveHourFormat: false,
+	twelveHourFormat: true,
 
 	// Greetings
 	greetingMorning: 'Доброе утро!',
