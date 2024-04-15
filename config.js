@@ -79,7 +79,7 @@ const CONFIG = {
 			id: '5',
 			name: 'Telegram',
 			icon: 'send',
-			link: 'https://web.telegram.org/a/',
+			link: 'https://web.telegram.org/k/',
 		},
 		{
 			id: '6',
